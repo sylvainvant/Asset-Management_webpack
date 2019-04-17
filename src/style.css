@@ -9,8 +9,7 @@
 .hello {
   color: red;
   font-family: 'MyFont';
-  background-image: url('./icon.png');
-  /*background: url('./icon.png');*/ 
+  background: url('./icon.png');
   background-repeat: no-repeat;
 
 }
