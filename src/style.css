@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'MyFont';
-  src: url('./ubuntu.woff2') format('woff2'),
-    url('./Ubuntu.woff') format('woff');
+  src: url('./100LilBunny.woff2') format('woff2'),
+    url('./100LilBunny.woff') format('woff');
   font-weight: 600;
   font-style: normal;
 }
@@ -9,6 +9,8 @@
 .hello {
   color: red;
   font-family: 'MyFont';
-  background: url('./icon.jpg');
+  background-image: url('./icon.png');
+  /*background: url('./icon.png');*/ 
   background-repeat: no-repeat;
+
 }
